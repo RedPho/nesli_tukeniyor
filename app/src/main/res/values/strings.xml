@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nesli Tükeniyor</string>
+    <string name="bilgilenelim">Bilgilenelim</string>
+    <string name="nesli_t_kenmekte_olan_hayvanlar">Nesli Tükenmekte Olan Hayvanlar</string>
+    <string name="nesli_t_kenmekte_olan_t_rler">nesli tükenmekte olan türler</string>
+    <string name="kaynak_wikipedia">Kaynak: Wikipedia</string>
+</resources>
